@@ -1,8 +1,8 @@
 import "./collection.css";
 import Navbar from "../components/Navbar";
 import hero from "../assets/images/hero.jpg";
-import look1 from "../assets/images/look1.jpg";
-import look2 from "../assets/images/look2.jpg";
+import look1 from "../assets/images/Look1.jpg";
+import look2 from "../assets/images/Look2.jpg";
 import banner from "../assets/images/Banner.jpg";
 
 function Collection() {
