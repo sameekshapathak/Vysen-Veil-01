@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import Look1 from "../assets/images/Look1.jpg";
-import "./Product.css";
+import "./product.css";
 
 function Product() {
 
