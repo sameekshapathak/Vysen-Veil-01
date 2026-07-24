@@ -1,6 +1,6 @@
 import "./collection.css";
 import Navbar from "../components/Navbar";
-import hero from "../assets/images/hero.jpg";
+import hero from "../assets/images/Hero.jpg";
 import look1 from "../assets/images/Look1.jpg";
 import look2 from "../assets/images/Look2.jpg";
 import banner from "../assets/images/Banner.jpg";
