@@ -1,0 +1,94 @@
+.navbar{
+    position: fixed;
+    top: 25px;
+    right: 35px;
+    z-index: 9999;
+}
+
+.menu-btn{
+    background: none;
+    border: none;
+    font-size: 2.5rem;
+    cursor: pointer;
+    color: #1F2A44;
+}
+.vv-btn{
+    width: 58px;
+    height: 58px;
+
+    border-radius: 50%;
+
+    border: 1.5px solid white;
+
+    background: rgba(255,255,255,0.15);
+
+    backdrop-filter: blur(12px);
+
+    color: white;
+
+    font-family: "Times New Roman", serif;
+    font-size: 1rem;
+    letter-spacing: 2px;
+
+    cursor: pointer;
+
+    transition: all 0.3s ease;
+}
+
+.vv-btn:hover{
+    background: white;
+    color: #1F2A44;
+}
+
+.dropdown{
+    margin-top: 10px;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+
+    box-shadow: 0 5px 20px rgba(0,0,0,0.15);
+}
+
+.dropdown a{
+    text-decoration: none;
+    color: #1F2A44;
+    letter-spacing: 2px;
+}
+.navbar{
+    position: fixed;
+    top: 25px;
+    right: 35px;
+
+    display: flex;
+    align-items: flex-start;
+    gap: 12px;
+
+    z-index: 9999;
+}
+
+.cart-btn{
+    width: 58px;
+    height: 58px;
+
+    border-radius: 50%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    text-decoration: none;
+
+    font-size: 1.4rem;
+
+    border: 1px solid white;
+
+    background: rgba(255,255,255,0.15);
+
+    backdrop-filter: blur(12px);
+
+    color: white;
+}
